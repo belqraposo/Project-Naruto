@@ -5,4 +5,4 @@
  
  ##
  ## View in:
-  https://belqraposo.github.io/Project-Naruto/
+  https://belraposo.github.io/Project-Naruto/
